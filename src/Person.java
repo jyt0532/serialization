@@ -19,7 +19,7 @@ class Person implements Serializable{
   }
 
   private void readObjectNoData() throws ObjectStreamException {
-    name = "Johnson";
-    age = 100;
+    name = "John";
+    age = 1;
   }
 }
