@@ -1,6 +1,7 @@
 /**
  * Created by bchiang on 9/29/17.
  */
+
 import java.io.ObjectStreamException;
 import java.io.Serializable;
 
@@ -9,6 +10,7 @@ class Person implements Serializable{
   protected int age;
 
   Person() {
+    this("John",1);
   }
 
   Person(String name, int age) {

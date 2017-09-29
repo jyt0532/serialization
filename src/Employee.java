@@ -45,9 +45,5 @@ public class Employee implements Serializable { //v1
     this.age = age;
     this.address = address;
   }
-  private void readObjectNoData() throws ObjectStreamException {
-    name= "John";
-    age = 1;
-  }
 }
 */
