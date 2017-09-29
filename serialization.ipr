@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serialization.iml" filepath="$PROJECT_DIR$/serialization.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8.0_72" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../0320/messaging-conversation-be_trunk" value="1490047618000" />
+        <entry key="$PROJECT_DIR$/../messaging-body-be" value="1490720209000" />
+        <entry key="$PROJECT_DIR$/../messaging-conversation-be" value="1488835665000" />
+        <entry key="$PROJECT_DIR$/../messaging-conversation-be_trunk" value="1490836470000" />
+        <entry key="$PROJECT_DIR$/../messaging-domain-be_trunk" value="1497461094000" />
+        <entry key="$PROJECT_DIR$/../messaging-mt" value="1490376595000" />
+        <entry key="$PROJECT_DIR$/../messaging-mt_trunk" value="1493079288000" />
+        <entry key="$PROJECT_DIR$/../messaging-offline-mt_trunk" value="1498502750000" />
+        <entry key="$PROJECT_DIR$/../messaging-status-be" value="1489598230000" />
+        <entry key="$PROJECT_DIR$/../mt/messaging-mt_trunk" value="1494289878000" />
+        <entry key="$PROJECT_DIR$/../oncall1/sbt/voyager-api_trunk" value="1502762373000" />
+        <entry key="$PROJECT_DIR$/../play/my-test-project" value="1489008635000" />
+        <entry key="$USER_HOME$/newhire-blue-frontend_trunk" value="1487100183000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/.sbt/liplay/activator-launch-1.3.2.jar" />
+    <option name="maximumHeapSize" value="4096" />
+    <option name="vmParameters" value="-Dplay.version=2.4 -DartifactoryUrl=http://dev-artifactory.corp.linkedin.com:8081/artifactory -Dsbt.boot.properties=/Users/bchiang/.sbt/liplay/sbt.boot.properties -Dplay.home=/Users/bchiang/.sbt/liplay/framework -Dsbt.parser.simple=true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
